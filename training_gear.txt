@@ -1,3 +1,4 @@
 pants
 gloves
 mouthpiece
+bandages
